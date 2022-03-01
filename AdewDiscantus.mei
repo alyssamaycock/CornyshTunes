@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Adew, adew</title>
+        <respStmt>
+          <persName role="composer">William Cornysh</persName>
+        </respStmt>
+        <editor>Alyssa Maycock</editor>
+      </titleStmt>
+      <pubStmt>
+        <unpub/>
+      </pubStmt>
+    </fileDesc>
+    <workDesc>
+      <work>
+        <title>Adew, adew</title>
+        <composer>William Cornysh</composer>
+      </work>
+    </workDesc>
+    <sourceDesc>
+    </sourceDesc>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef>
+            <staffGrp n="1">
+              <staffDef clef.line="2" clef.shape="C" lines="5" n="1" notationtype="mensural">
+                <keySig>
+                  <keyAccid accid="f" pname="b" oct="4" loc="8"></keyAccid>
+                </keySig>
+                <label>Discantus</label>
+              </staffDef>
+            </staffGrp>
+          </scoreDef>
+          <section>
+            <staff n="1">
+              <layer n="1">
+                <note dur="brevis" oct="4" pname="f">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">A</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="a">
+                  <verse n="1">
+                    <syl wordpos="t">dew</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">a</syl>
+                  </verse>
+                </note>
+                <note dur="brevis" oct="5" pname="c">
+                  <verse n="1">
+                    <syl wordpos="t">dew</syl>
+                  </verse>
+                </note>
+                <dot form="aug"/>
+                <note dur="semibrevis" oct="5" pname="c">
+                  <verse n="1">
+                    <syl wordpos="i">my</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="b">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">hart</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="g">
+                  <verse n="1">
+                    <syl wordpos="t">is</syl>
+                  </verse>
+                </note>
+                <note dur="brevis" oct="4" pname="a" fermata="above">
+                  <verse n="1">
+                    <syl wordpos="">lust.</syl>
+                  </verse>
+                </note>
+                <barLine />
+                <rest dur="semibrevis"/>
+                <note dur="semibrevis" oct="4" pname="f">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">A</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="a">
+                  <verse n="1">
+                    <syl wordpos="t">dew</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="b">
+                  <verse n="1">
+                    <syl wordpos="i">my</syl>
+                  </verse>
+                </note>
+                <note dur="brevis" oct="5" pname="c">
+                  <verse n="1">
+                    <syl wordpos="i">joy</syl>
+                  </verse>
+                </note>
+                <dot form="aug"/>
+                <note dur="semibrevis" oct="4" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i">and</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="b">
+                  <verse n="1">
+                    <syl wordpos="i">my</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="5" pname="c">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">sol</syl>
+                  </verse>
+                </note>
+                <note dur="brevis" oct="4" pname="a" fermata="above">
+                  <verse n="1">
+                    <syl wordpos="t" con="d">ace.</syl>
+                  </verse>
+                </note>
+                <barLine />
+                <note dur="brevis" oct="4" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i">Wyth</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="4" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">dou</syl>
+                  </verse>
+                </note>
+                <note dur="semiminima" oct="4" pname="g"></note>
+                <note dur="semiminima" oct="4" pname="a"></note>
+                <note dur="minima" oct="4" pname="g"></note>
+                <note dur="minima" oct="4" pname="f">
+                  <verse n="1">
+                    <syl wordpos="t">byl</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="e">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">so</syl>
+                  </verse>
+                </note>
+                <dot form="aug" />
+                <note dur="minima" oct="4" pname="f"></note>
+                <note dur="semibrevis" oct="4" pname="g">
+                  <verse n="1">
+                    <syl wordpos="t">row</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">com</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="5" pname="c">
+                  <verse n="1">
+                    <syl wordpos="t">playn</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="b">
+                  <verse n="1">
+                    <syl wordpos="i">I</syl>
+                  </verse>
+                </note>
+                <note dur="brevis" oct="4" pname="a" fermata="above">
+                  <verse n="1">
+                    <syl wordpos="i">must</syl>
+                  </verse>
+                </note>
+                <barLine />
+                <note dur="semibrevis" oct="4" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">un</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="g">
+                  <verse n="1">
+                    <syl wordpos="t">tyl</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="f">
+                  <verse n="1">
+                    <syl wordpos="i">I</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="e">
+                  <verse n="1">
+                    <syl wordpos="i">dye</syl>
+                  </verse>
+                </note>
+                <dot form="aug" />
+                <note dur="minima" oct="4" pname="d"></note>
+                <note dur="semibrevis" oct="4" pname="e"></note>
+                <note dur="semibrevis" oct="4" pname="f">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">a</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="g">
+                  <verse n="1">
+                    <syl wordpos="t">las</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="4" pname="e">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">a</syl>
+                  </verse>
+                </note>
+                <note dur="brevis" oct="4" pname="f" fermata="above">
+                  <verse n="1">
+                    <syl wordpos="t">las.</syl>
+                  </verse>
+                </note>
+                <barLine form="dbl">
+              </layer>
+            </staff>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
