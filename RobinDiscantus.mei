@@ -232,8 +232,6 @@
                     <syl wordpos="i">She</syl>
                   </verse>
                 </note>
-                <barLine form="invis" />
-                <sb />
                 <note dur="minima" oct="3" pname="f" stem.dir="up">
                   <verse n="1">
                     <syl wordpos="i" con="d">lov</syl>
@@ -491,8 +489,6 @@
                     <syl wordpos="i">In</syl>
                   </verse>
                 </note>
-                <barLine form="invis" />
-                <sb />
                 <note dur="minima" oct="4" pname="d">
                   <verse n="1">
                     <syl wordpos="i">faith</syl>
