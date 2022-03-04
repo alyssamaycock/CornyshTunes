@@ -28,7 +28,7 @@
         <score>
           <scoreDef>
             <staffGrp n="1">
-              <staffDef clef.line="3" clef.shape="C" lines="5" n="1" notationtype="mensural">
+              <staffDef clef.line="3" clef.shape="C" lines="5" n="1" mensur.sign="C" notationtype="mensural">
                 <keySig>
                   <keyAccid accid="f" pname="b"></keyAccid>
                 </keySig>
@@ -232,7 +232,7 @@
                     <syl wordpos="i">She</syl>
                   </verse>
                 </note>
-                <barLine form="invis" />
+                <barLine form="dashed" />
                 <note dur="minima" oct="3" pname="f" stem.dir="up">
                   <verse n="1">
                     <syl wordpos="i" con="d">lov</syl>
