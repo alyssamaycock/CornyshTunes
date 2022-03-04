@@ -47,7 +47,6 @@
                 <rest dur="longa" oloc="4" ploc="e" />
                 <rest dur="longa" oloc="4" ploc="c" />
                 <rest dur="longa" oloc="4" ploc="c" />
-                <barLine form="dashed" />
                 <note dur="semibrevis" oct="4" pname="d">
                   <verse n="1">
                     <syl wordpos="i">A</syl>
