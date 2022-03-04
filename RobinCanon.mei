@@ -145,7 +145,7 @@
                   </verse>
                 </note>
                 <rest dur="semibrevis" />
-                <barLine form="dashed" />
+                <barLine form="invis" />
                 <note xml:id="canonStart" dur="semibrevis" oct="3" pname="g">
                   <verse n="1">
                     <syl wordpos="i">A</syl>
