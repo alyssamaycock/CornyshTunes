@@ -215,7 +215,7 @@
                     <syl wordpos="t">las.</syl>
                   </verse>
                 </note>
-                <barLine form="dbl">
+                <barLine form="dbl" />
               </layer>
             </staff>
           </section>

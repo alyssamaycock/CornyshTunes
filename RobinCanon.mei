@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Adew, adew</title>
+        <respStmt>
+          <persName role="composer">William Cornysh</persName>
+        </respStmt>
+        <editor>Alyssa Maycock</editor>
+      </titleStmt>
+      <pubStmt>
+        <unpub/>
+      </pubStmt>
+    </fileDesc>
+    <workDesc>
+      <work>
+        <title>Adew, adew</title>
+        <composer>William Cornysh</composer>
+      </work>
+    </workDesc>
+    <sourceDesc>
+      <source xml:id="MS"></source>
+    </sourceDesc>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef>
+            <staffGrp n="1">
+              <staffDef clef.line="4" clef.shape="C" lines="5" n="1" mensur.sign="C" notationtype="mensural">
+                <keySig>
+                  <keyAccid accid="f" pname="b"></keyAccid>
+                </keySig>
+                <label>Canon</label>
+              </staffDef>
+            </staffGrp>
+          </scoreDef>
+          <section>
+            <staff n="1">
+              <layer n="1">
+                <note dur="semibrevis" oct="3" pname="b">
+                  <verse n="1">
+                    <syl wordpos="i">A</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="3" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">Ro</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="t">byn</syl>
+                  </verse>
+                </note>
+                <rest dur="semibrevis" />
+                <note dur="semibrevis" oct="3" pname="b">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">gen</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="t">tyl</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">Ro</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="t">byn</syl>
+                  </verse>
+                </note>
+                <rest dur="semibrevis" />
+                <note dur="minima" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i">tell</syl>
+                  </verse>
+                </note>
+                <dot form="aug" />
+                <note dur="semiminima" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i">me</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="4" pname="d">
+                  <verse n="1">
+                    <syl wordpos="i">how</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="4" pname="d">
+                  <verse n="1">
+                    <syl wordpos="i">thy</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="4" pname="c">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">le</syl>
+                  </verse>
+                </note>
+                <dot form="aug" />
+                <note dur="semiminima" oct="4" pname="c">
+                  <verse n="1">
+                    <syl wordpos="t">man</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="b">
+                  <verse n="1">
+                    <syl wordpos="i">doth</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="b">
+                  <verse n="1">
+                    <syl wordpos="i">and</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="4" pname="c">
+                  <verse n="1">
+                    <syl wordpos="i">thou</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="4" pname="c">
+                  <verse n="1">
+                    <syl wordpos="i">shall</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i">know</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i">of</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="3" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i">mine</syl>
+                  </verse>
+                </note>
+                <rest dur="semibrevis" />
+                <barLine form="dashed" />
+                <note xml:id="canonStart" dur="semibrevis" oct="3" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i">A</syl>
+                    <dir staff="1" startid="#canonStart" place="above">
+                       <rend>Voice 2 begins</rend>
+                    </dir>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="3" pname="e">
+                  <accid accid="f"></accid>
+                  <verse n="1">
+                    <syl wordpos="i" con="d">Ro</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="3" pname="d">
+                  <verse n="1">
+                    <syl wordpos="t">byn</syl>
+                  </verse>
+                </note>
+                <app>
+                  <lem>
+                    <rest dur="semibrevis" oloc="3" ploc="d" />
+                  </lem>
+                  <rdg source="#MS">
+                    <rest dur="minima" oloc="3" ploc="d" />
+                    <rest dur="minima" oloc="3" ploc="d" />
+                  </rdg>
+                </app>
+                <note dur="semibrevis" oct="3" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">gen</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="f">
+                  <verse n="1">
+                    <syl wordpos="t">tyl</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="e">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">Ro</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="3" pname="d">
+                  <verse n="1">
+                    <syl wordpos="t">byn</syl>
+                  </verse>
+                </note>
+                <app>
+                  <lem>
+                    <rest dur="semibrevis" oloc="3" ploc="d" />
+                  </lem>
+                  <rdg source="#MS">
+                    <rest dur="minima" oloc="3" ploc="d" />
+                    <rest dur="minima" oloc="3" ploc="d" />
+                  </rdg>
+                </app>
+                <note dur="minima" oct="3" pname="d">
+                  <verse n="1">
+                    <syl wordpos="i">tell</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="d">
+                  <verse n="1">
+                    <syl wordpos="i">me</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="d">
+                  <verse n="1">
+                    <syl wordpos="i">how</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="d">
+                  <verse n="1">
+                    <syl wordpos="i">thy</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="f">
+                  <verse n="1">
+                    <syl wordpos="i" con="d">le</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="f">
+                  <verse n="1">
+                    <syl wordpos="t">man</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i">doth</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i">and</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i">thou</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="a">
+                  <verse n="1">
+                    <syl wordpos="i">shall</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="d">
+                  <verse n="1">
+                    <syl wordpos="i">know</syl>
+                  </verse>
+                </note>
+                <note dur="minima" oct="3" pname="d">
+                  <verse n="1">
+                    <syl wordpos="i">of</syl>
+                  </verse>
+                </note>
+                <note dur="semibrevis" oct="3" pname="g">
+                  <verse n="1">
+                    <syl wordpos="i">mine</syl>
+                  </verse>
+                </note>
+                <rest dur="semibrevis" oloc="3" ploc="f" />
+                <barLine form="rptend" />
+              </layer>
+            </staff>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
