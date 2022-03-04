@@ -145,6 +145,7 @@
                   </verse>
                 </note>
                 <rest dur="semibrevis" />
+                <custos oct="3" pname="g" />
                 <barLine form="invis" />
                 <note xml:id="canonStart" dur="semibrevis" oct="3" pname="g">
                   <verse n="1">
