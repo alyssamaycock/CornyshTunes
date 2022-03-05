@@ -147,6 +147,7 @@
                   </verse>
                 </note>
                 <note dur="semibrevis" oct="3" pname="b">
+                  <accid accid="s" />
                   <verse n="1">
                     <syl wordpos="i">mine.</syl>
                   </verse>
@@ -300,6 +301,7 @@
                   </verse>
                 </note>
                 <note dur="semibrevis" oct="3" pname="b">
+                  <accid accid="s" />
                   <verse n="1">
                     <syl wordpos="">no.</syl>
                   </verse>
@@ -406,6 +408,7 @@
                   </verse>
                 </note>
                 <note dur="semibrevis" oct="3" pname="b">
+                  <accid accid="s" />
                   <verse n="1">
                     <syl wordpos="i">mine.</syl>
                   </verse>
@@ -662,6 +665,7 @@
                   </verse>
                 </note>
                 <note dur="semibrevis" oct="3" pname="b">
+                  <accid accid="s" />
                   <verse n="1">
                     <syl wordpos="i">mine.</syl>
                   </verse>
