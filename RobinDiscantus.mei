@@ -116,12 +116,12 @@
                     <syl wordpos="t">man</syl>
                   </verse>
                 </note>
-                <note dur="minima" oct="4" pname="d">
+                <note dur="minima" oct="4" pname="d" stem.dir="up">
                   <verse n="1">
                     <syl wordpos="i">doth</syl>
                   </verse>
                 </note>
-                <note dur="minima" oct="4" pname="d">
+                <note dur="minima" oct="4" pname="d" stem.dir="up">
                   <verse n="1">
                     <syl wordpos="i">and</syl>
                   </verse>
@@ -235,23 +235,23 @@
                 </note>
                 <note dur="minima" oct="3" pname="f" stem.dir="up">
                   <verse n="1">
-                    <syl wordpos="i" con="d">lov</syl>
+                    <syl wordpos="i">lovyth</syl>
                   </verse>
                 </note>
                 <dot form="aug" />
                 <note dur="semiminima" oct="3" pname="f" stem.dir="up">
                   <verse n="1">
-                    <syl wordpos="t">yth</syl>
+                    <syl wordpos="i" con="d">a</syl>
                   </verse>
                 </note>
                 <note dur="minima" oct="3" pname="b">
                   <verse n="1">
-                    <syl wordpos="i" con="d">an</syl>
+                    <syl wordpos="m" con="d">no</syl>
                   </verse>
                 </note>
                 <note dur="minima" oct="3" pname="b">
                   <verse n="1">
-                    <syl wordpos="t">other</syl>
+                    <syl wordpos="t">ther</syl>
                   </verse>
                 </note>
                 <note dur="minima" oct="3" pname="a" stem.dir="up">
@@ -375,12 +375,12 @@
                     <syl wordpos="t">man</syl>
                   </verse>
                 </note>
-                <note dur="minima" oct="4" pname="d">
+                <note dur="minima" oct="4" pname="d" stem.dir="up">
                   <verse n="1">
                     <syl wordpos="i">doth</syl>
                   </verse>
                 </note>
-                <note dur="minima" oct="4" pname="d">
+                <note dur="minima" oct="4" pname="d" stem.dir="up">
                   <verse n="1">
                     <syl wordpos="i">and</syl>
                   </verse>
@@ -471,12 +471,12 @@
                     <syl wordpos="i">find</syl>
                   </verse>
                 </note>
-                <note dur="minima" oct="4" pname="d" stem.dir="up">
+                <note dur="minima" oct="4" pname="d" stem.dir="down">
                   <verse n="1">
                     <syl wordpos="i" con="d">wo</syl>
                   </verse>
                 </note>
-                <note dur="minima" oct="4" pname="c">
+                <note dur="minima" oct="4" pname="c" stem.dir="down">
                   <verse n="1">
                     <syl wordpos="t">men</syl>
                   </verse>
@@ -631,12 +631,12 @@
                     <syl wordpos="t">man</syl>
                   </verse>
                 </note>
-                <note dur="minima" oct="4" pname="d">
+                <note dur="minima" oct="4" pname="d" stem.dir="up">
                   <verse n="1">
                     <syl wordpos="i">doth</syl>
                   </verse>
                 </note>
-                <note dur="minima" oct="4" pname="d">
+                <note dur="minima" oct="4" pname="d" stem.dir="up">
                   <verse n="1">
                     <syl wordpos="i">and</syl>
                   </verse>
